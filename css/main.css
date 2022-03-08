@@ -1,3 +1,4 @@
+/* === Base Styles === */
 body {
     background: #E8E8E8;
 }
@@ -15,6 +16,7 @@ body {
     text-transform: uppercase;
 }
 
+/* === Blocks === */
 .block {
     float: left;
     box-sizing: border-box;
@@ -31,6 +33,7 @@ body {
     height: 430px;
 }
 
+/* === Extra styles === */
 .center {
     text-align: center;
 }
